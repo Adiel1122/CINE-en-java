@@ -1,6 +1,6 @@
 Para acceder al Administrador (CineByt -> linea 144):
 Nickname: elAdministrador
-Contraseña: 314dm1n
+Contraseña: 3l4dm1n
 Datos generales (nombre, edad, correo, cel):
 elAdmin
 30
